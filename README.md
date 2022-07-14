@@ -22,6 +22,8 @@ The changes to the HTML’s semantic structure also had an influence on the styl
 
 ### Deployed Website Example
 
+[You can find a deployed version of the website here](https://littmarque27.github.io/Horiseon-Accessibility-and-Semantics-Enhancements/) or review the screenshot below.
+
 ![Full Site Screenshot](./assets/images/Full-Site-Screenshot.png)
 
 

@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Removal of extraneous "header" class allows us to use a header element selector instead*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -86,7 +87,7 @@ p {
     background-color: #2589bd;
 }
 
-/* Reordered to match semantic flow; consolidated selectors*/
+/* Reordered to match semantic flow; consolidated selectors that had the same specifications*/
 .service {
     margin-bottom: 20px;
     padding: 50px;
@@ -105,7 +106,7 @@ p {
     font-size: 36px;
 }
 
-/*Consolidated selectors*/
+/*Consolidated selectors that had the same specifications*/
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -122,6 +123,7 @@ p {
     max-width: 150px;
 }
 
+/*Removal of the extraneous "footer" class allows us to use the footer element selector instead*/
 footer {
     padding: 30px;
     clear: both;
@@ -129,6 +131,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h4 {
     font-size: 20px;
 }
